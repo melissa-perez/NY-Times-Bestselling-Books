@@ -41,7 +41,7 @@ class BestSellerBooksRecyclerViewAdapter(
         val mBookDescription: TextView = mView.findViewById<View>(id.book_description) as TextView
         val mBookRanking: TextView = mView.findViewById<View>(id.ranking) as TextView
         val mBookImage: ImageView = mView.findViewById<View>(id.book_image) as ImageView
-        val mBookBuy: Button = mView.findViewById<Button>(id.buy_button) as Button
+        val mBookBuy: Button = mView.findViewById(id.buy_button) as Button
         override fun toString(): String {
             return mBookTitle.toString() + " '" + mBookAuthor.text + "'"
         }
