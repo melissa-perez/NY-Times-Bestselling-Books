@@ -12,3 +12,5 @@ The stretch features will help develop this app into something closer to the NY 
 
 - [x] View elements are styled in the .xml files
 - [x] The "Buy" button successfully opens the page on Amazon
+
+<img src="nytimesbestseller.gif" />
