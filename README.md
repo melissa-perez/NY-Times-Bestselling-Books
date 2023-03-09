@@ -1,6 +1,7 @@
-Application Features
+# Android Lab 3 - NY Times Bestselling Books
 
-Required Features
+
+## Required Features
 
 - [x] Live data is loaded from the NY Times API
 - [x] Books are displayed using a RecyclerView
