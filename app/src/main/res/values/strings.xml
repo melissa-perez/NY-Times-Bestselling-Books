@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">NY Times Best Seller</string>
+    <string name="amazonBuyText">Buy on Amazon</string>
+    <string name="bookCoverText">Image of book cover.</string>
+    <string name="rankingText">1</string>
+    <string name="bookTitleText">Fantastic Beasts and Where to Find Them</string>
+    <string name="authorText">Newt Scamander</string>
+    <string name="descriptionText">Fantastic Beasts and Where to Find Them is a spin-off from the books in Rowling\'s Harry Potter series and is intended to be one of the books Harry and his friends use themselves. This book is among Harry Potter\'s own schoolbooks, with Fantastic Beasts and Where to Find Them purportedly written by Newt Scamander, an expert in magizoology.</string>
 </resources>
