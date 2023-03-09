@@ -6,7 +6,6 @@
 - [x] Live data is loaded from the NY Times API
 - [x] Books are displayed using a RecyclerView
 - [x] Book cover images are downloaded and displayed using Glide
-- [x] Stretch Features
 
 The stretch features will help develop this app into something closer to the NY Times website.
 
